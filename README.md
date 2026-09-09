@@ -1,7 +1,6 @@
 # Cleo Spiers
 
-Personal website for [cleospiers.com](https://cleospiers.com), built with plain
-HTML and CSS. No JavaScript, framework, package installation, or build step.
+Personal website for [cleospiers.com](https://cleospiers.com)
 
 ## Content
 
@@ -15,13 +14,7 @@ Keep links relative so the site also works when opened locally.
 
 ## Local preview
 
-Open `index.html` directly, or run:
-
-```sh
-python3 -m http.server 8000 --bind 127.0.0.1
-```
-
-Then visit http://127.0.0.1:8000.
+Open `index.html` directly
 
 ## Publishing
 
