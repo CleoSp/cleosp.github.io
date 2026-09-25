@@ -1,0 +1,26 @@
+# Cleo Spiers
+
+> Personal website of Cleo Spiers, a software engineer in Seattle who also writes and takes photographs.
+
+Cleo studied computer science and psychology at the University of Oklahoma. Their work has spanned medical research, machine learning infrastructure, and tools for emergency response.
+
+## Pages
+
+- [Home](https://cleospiers.com/): Biography, employment, résumé, writing, and photography previews.
+- [Work](https://cleospiers.com/#work): Employment history and résumé.
+- [Writing](https://cleospiers.com/#writing): A screenplay excerpt and a mathematical note.
+- [Photography](https://cleospiers.com/photography.html): 25 photographs, including portraits, interiors, streets, and landscapes. Each image has descriptive alt text and a link to a larger version.
+
+## Documents
+
+- [Résumé](https://cleospiers.com/assets/cleo-spiers-resume.pdf): Résumé (PDF).
+- [chaser](https://cleospiers.com/assets/chaser-excerpt.pdf): Screenplay excerpt, 5 pages (PDF).
+- [Seymour’s Second Neighborhood Conjecture: an order bound](https://cleospiers.com/assets/seymour-order-bound.pdf): Mathematical note, 2 pages (PDF).
+
+## Optional
+
+- [GitHub](https://github.com/CleoSp): Code profile.
+- [LinkedIn](https://www.linkedin.com/in/cleo-spiers/): Professional profile.
+- [Sitemap](https://cleospiers.com/sitemap.xml): Canonical public pages.
+
+The writing and photographs remain the work of Cleo Spiers; public availability does not grant a reuse license.
