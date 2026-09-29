@@ -1,6 +1,6 @@
 # Cleo Spiers
 
-Personal website for [cleospiers.com](https://cleospiers.com)
+Personal website for [cleosp.com](https://cleosp.com)
 
 ## Content
 

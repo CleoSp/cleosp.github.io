@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cleospiers.com/sitemap.xml
+Sitemap: https://cleosp.com/sitemap.xml
