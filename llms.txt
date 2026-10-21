@@ -6,8 +6,10 @@ Cleo studied computer science and psychology at the University of Oklahoma. Thei
 
 ## Pages
 
-- [Home](https://cleosp.com/): Biography, employment, résumé, writing, and photography previews.
+- [Home](https://cleosp.com/): Biography, employment, projects, résumé, writing, and photography previews.
 - [Work](https://cleosp.com/#work): Employment history and résumé.
+- [Projects](https://cleosp.com/#projects): Software projects, including the Chibi-Robo! decompilation.
+- [Chibi-Robo! decomp](https://cleosp.com/chibirobo-decomp/): An interactive treemap of progress on a matching decompilation of the GameCube game.
 - [Writing](https://cleosp.com/#writing): A screenplay excerpt and a mathematical note.
 - [Photography](https://cleosp.com/photography.html): 25 photographs, including portraits, interiors, streets, and landscapes. Each image has descriptive alt text and a link to a larger version.
 

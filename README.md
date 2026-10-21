@@ -4,7 +4,7 @@ Personal website for [cleosp.com](https://cleosp.com)
 
 ## Content
 
-- `index.html`: biography, employment, document links, writing, and photo previews.
+- `index.html`: biography, employment, projects, document links, writing, and photo previews.
 - `photography.html`: photography gallery.
 - `style.css`: shared typography and layout.
 - `assets/`: PDFs and web-sized photographs.
@@ -39,6 +39,8 @@ Open `index.html` directly
 GitHub Pages serves the root of the `main` branch. Push changes to `main` to
 publish them. `CNAME` contains the custom domain, and `.nojekyll` keeps the
 site entirely static.
+
+[Chibi-Robo! decomp](https://cleosp.com/chibirobo-decomp/) updates from the [decomp repo](https://github.com/CleoSp/chibirobo-decomp).
 
 Images have small and large JPEG versions, responsive dimensions, and sRGB
 color profiles. Preserve their aspect ratios when adding or replacing photos.
